@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "345b10993f91e9db659c1e05c475db84",
+    "revision": "3caa0719603daa70fdb82828bc4a6b4a",
     "url": "/index.html"
   },
   {
-    "revision": "7973c0df16f688622387",
-    "url": "/static/css/main.834f323d.chunk.css"
+    "revision": "d5dc76ae59e31b9f4478",
+    "url": "/static/css/main.569e6a4b.chunk.css"
   },
   {
-    "revision": "9b5cf17855fd898f09a4",
-    "url": "/static/js/2.509ce519.chunk.js"
+    "revision": "c147b015f1a6d36cfd24",
+    "url": "/static/js/2.09c0c2c2.chunk.js"
   },
   {
-    "revision": "7973c0df16f688622387",
-    "url": "/static/js/main.02d78388.chunk.js"
+    "revision": "d5dc76ae59e31b9f4478",
+    "url": "/static/js/main.6f1e9f7e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a9d57c8e821144efbfac057815782083",
     "url": "/static/media/andre-benz.a9d57c8e.jpg"
+  },
+  {
+    "revision": "966c06a567af6865272de61f8e92e0d7",
+    "url": "/static/media/avocado.966c06a5.svg"
   },
   {
     "revision": "5d6f91ab6f45459a38f94b769c8eab0d",
@@ -326,6 +330,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "076a0467b055c17dbb5f9dab8a1b7090",
     "url": "/static/media/img_352.076a0467.png"
+  },
+  {
+    "revision": "4629cb01b477127585ea7c2a60283241",
+    "url": "/static/media/img_avocado.4629cb01.png"
   },
   {
     "revision": "c9f4d74a66ce95d3be63f4a0dadaff25",
